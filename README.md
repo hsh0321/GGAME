@@ -1,6 +1,6 @@
-# README
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=GGAME&fontSize=70&animation=fadeIn&fontAlignY=38&desc=어색한%20분위기를%20깨자&descAlignY=51&descAlign=62)
 
-
+# GGAME
 
 ## 0. 프로젝트 소개
 
