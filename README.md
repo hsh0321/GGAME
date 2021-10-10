@@ -198,7 +198,9 @@ node server.js
   - Full-Stack
   - [Front-End] 
     - 멀티플레이(Air draw 게임)
+      - 게임 로직 구현, 웹소켓 통신 핸들링
   - [Back-End] 
     - 웹소켓 서버 구축 
+      - 서버 측 송수신 데이터 처리 및 데이터 구조화
     - WebRTC 
-
+      - 프론트엔드 화상화면 구축 및 서버 
